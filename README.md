@@ -10,7 +10,7 @@ El desarrollo de este proyecto implica la creación de una API REST en Visual St
 
 ## Archivos
 
-- [Descargar archivo APIREST (zip)](país_dep_ciu_apirest.zip)
+- [Descargar archivo APIREST (zip)](equipos_futbolistas_apirest_node.js.zip)
 
 ## Autor
 **BRYAN FERNANDO BURBANO CARVAJAL**  
@@ -20,7 +20,8 @@ El desarrollo de este proyecto implica la creación de una API REST en Visual St
 [DEVELOPING-A-REST-API-WITH-JWT-AUTHENTICATION-CONNECTED-TO-A-MONGODB-DATABASE]()
 
 ## Instalación
-Este proyecto requiere la instalación de **Node.js** y un editor de código, como **Visual Studio Code**. Posteriormente, configura y ejecuta la API REST para conectarla a la base de datos MySQL utilizando cualquier herramienta de administración compatible como **MySQL Workbench**.
+Este proyecto requiere la instalación de **Node.js**, un editor de código como **Visual Studio Code** y una base de datos **MongoDB Atlas**. Posteriormente, configura y ejecuta la API REST conectándola a la base de datos MongoDB para su correcto funcionamiento.
+
 
 
 ## Contratación
