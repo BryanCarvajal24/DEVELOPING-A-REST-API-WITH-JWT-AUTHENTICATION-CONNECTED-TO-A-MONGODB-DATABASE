@@ -25,4 +25,4 @@ Este proyecto requiere la instalación de **Node.js**, un editor de código como
 
 
 ## Contratación
-Si quieres contratarme puedes escribirme a brayanpapupro123@gmail.com para consultas.
+Si quieres contratarme puedes escribirme a bryanburbanocarvajal24@gmail.com para consultas.
